@@ -29,5 +29,5 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 ---
 
 ## 🏗 Architecture & Machine Learning Pipelines
-sent by praveen anna<img width="1901" height="942" alt="Screenshot 2026-09-24 170936" src="https://github.com/user-attachments/assets/11228198-bbc4-4ae2-aae5-c5e584a7ba2f" />
+<img width="1901" height="942" alt="Screenshot 2026-09-24 170936" src="https://github.com/user-attachments/assets/11228198-bbc4-4ae2-aae5-c5e584a7ba2f" />
 <img width="1901" height="942" alt="Screenshot 2026-09-24 170936" src="https://github.com/user-attachments/assets/a34cf531-2c10-4dfa-8967-bd718ba3ceaf" />
